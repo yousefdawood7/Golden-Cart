@@ -20,13 +20,15 @@
   "dependencies": {
     "@t3-oss/env-core": "^0.13.11",
     "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "helmet": "^8.2.0",
     "mongoose": "^9.7.0",
     "morgan": "^1.11.0",
     "reflect-metadata": "^0.2.2",
     "slugify": "^1.6.9",
-    "tsyringe": "^4.10.0"
+    "tsyringe": "^4.10.0",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
